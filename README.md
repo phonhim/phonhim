@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Java Spring Boot projects
 - 🌱 I’m learning Microservices, Kafka, and Cloud (AWS)
 - 💬 Ask me about Java, Spring Boot, Hibernate, SQL
-- 📫 How to reach me: your.email@gmail.com
+- 📫 How to reach me: himphon17@gmail.com
 - ⚡ Fun fact: I love debugging more than coding 😄
 
 ---
